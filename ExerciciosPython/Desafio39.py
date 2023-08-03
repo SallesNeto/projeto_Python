@@ -14,4 +14,5 @@ else:
     saldo = idade - 18
     print('Você ja deveria ter se alistado há {} ano(s)'.format(saldo))
     ano = atual - saldo
-    print('Seu alistamento foi em {}'.format(ano))
+    print('Seu alistamento foi em {}'.format(ano)) 
+    
