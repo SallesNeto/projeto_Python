@@ -22,6 +22,7 @@ elif opção == 4:
 else:
     total = 0
     print('OPÇÃO INVALIDA de pagamento. Tente novamente ! ')
-print('Sua compra de R${:.2f} vai custar R${:.2f} no final'.format(preço, total))
+print('Sua compra de R${:.2f} vai custar R${:.2f} no final'.format(preço, total)) 
+
 
 
